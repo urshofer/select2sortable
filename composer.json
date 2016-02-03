@@ -1,0 +1,13 @@
+{
+    "name": "urshofer/select2sortable",
+    "description": "select2 sortable extension for jquery",
+    "type": "Library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Urs Hofer",
+            "email": "hoferurs@gmail.com"
+        }
+    ]
+}
